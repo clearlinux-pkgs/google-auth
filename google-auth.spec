@@ -4,7 +4,7 @@
 #
 Name     : google-auth
 Version  : 1.20.0
-Release  : 17
+Release  : 18
 URL      : https://files.pythonhosted.org/packages/71/e5/a0017ceb8a096e2197360452299fef4c70bedeb840b1af73170c5c9d843d/google-auth-1.20.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/71/e5/a0017ceb8a096e2197360452299fef4c70bedeb840b1af73170c5c9d843d/google-auth-1.20.0.tar.gz
 Summary  : Google Authentication Library
